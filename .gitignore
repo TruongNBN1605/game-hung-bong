@@ -41,7 +41,7 @@
 /*.swo
 
 # TruongNBN: config
-/ProjectSettings/
+# /ProjectSettings/
 *.meta
 *.unity
 *.prefab
