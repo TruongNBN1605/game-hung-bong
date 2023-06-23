@@ -42,6 +42,6 @@
 
 # TruongNBN: config
 # /ProjectSettings/
-*.meta
-*.unity
-*.prefab
+# *.meta
+# *.unity
+# *.prefab
